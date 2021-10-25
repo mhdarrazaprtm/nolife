@@ -39,12 +39,12 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-// window.onscroll = function() {scrollFunction()};
+window.onscroll = function() {scrollFunction()};
 
-// function scrollFunction() {
-//   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-//     document.getElementById("navbar").style.padding = "12px 0px";
-//   } else {
-//     document.getElementById("navbar").style.padding = "24px 0px";
-//   }
-// } 
+function scrollFunction() {
+  if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
+    document.getElementById("navbar").style.padding = "12px 0px";
+  } else {
+    document.getElementById("navbar").style.padding = "24px 0px";
+  }
+} 
