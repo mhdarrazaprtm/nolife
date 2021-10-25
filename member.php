@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="stylesheet" href="css/tailwind/tailwind.css">
+    <link rel="stylesheet" href="css/tailwind.css">
     <link rel="stylesheet" href="css/swiper.css">
     <link rel="stylesheet" href="assets/icons/css/all.min.css">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-tailwind.png">
