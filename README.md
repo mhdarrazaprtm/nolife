@@ -1,1 +1,1 @@
-# nolifereborn.github.io
+# nolife.github.io
