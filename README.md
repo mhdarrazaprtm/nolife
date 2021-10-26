@@ -11,7 +11,7 @@ git clone <url repository> <folder tujuan>
 #### Contoh
 
 ```
-user@host:~$ git clone https://github.com/datascienceid/instagram.git instagram
+user@host:~$ git clone https://github.com/ffhengker132/instagram.git instagram
 Cloning into 'instagram'...
 remote: Counting objects: 4, done.
 remote: Compressing objects: 100% (4/4), done.
